@@ -85,7 +85,7 @@
       <div class="header w1170">
         <div class="smheader">
           <div class="left">
-            <div class="logo">
+            <div class="logo" title="掌腾考研logo">
               <a href="#" class="iconfont">&#xe606;</a>
             </div>
             <div class="nav">高端定校考研精品学习平台</div>
@@ -181,8 +181,8 @@
       </div>
       <div class="tit">
         <div class="banner">
-          <h4>掌腾考研</h4>
-          <div class="text-container">
+          <h4 title="掌腾考研辅导班">掌腾考研</h4>
+          <div class="text-container"  title="掌腾考研辅导班">
             <span class="text"></span> <span class="cursor">&nbsp;</span>
           </div>
         </div>
@@ -240,11 +240,11 @@
           <h5 class="w1170 chuguoyou">获奖学员口碑分享</h5>
           <div class="DubaiStudents swiper-container w1170">
             <div class="swiper-wrapper w1170">
-              <img class="swiper-slide w1170" src="http://image.guoguozhang.com//image/newhome531/banner2.png" alt="">
-              <img class="swiper-slide w1170" src="http://image.guoguozhang.com//image/newhome531/banner1.png" alt="">
-              <img class="swiper-slide w1170" src="http://image.guoguozhang.com//image/newhome531/banner3.png" alt="">
-              <img class="swiper-slide w1170" src="http://image.guoguozhang.com//image/newhome531/banner4.png" alt="">
-              <img class="swiper-slide w1170" src="http://image.guoguozhang.com//image/newhome531/banner5.png" alt="">
+              <img title="掌腾考研迪拜游" class="swiper-slide w1170" src="http://image.guoguozhang.com//image/newhome531/banner2.png" alt="">
+              <img title="掌腾考研迪拜游" class="swiper-slide w1170" src="http://image.guoguozhang.com//image/newhome531/banner1.png" alt="">
+              <img title="掌腾考研迪拜游" class="swiper-slide w1170" src="http://image.guoguozhang.com//image/newhome531/banner3.png" alt="">
+              <img title="掌腾考研迪拜游" class="swiper-slide w1170" src="http://image.guoguozhang.com//image/newhome531/banner4.png" alt="">
+              <img title="掌腾考研迪拜游" class="swiper-slide w1170" src="http://image.guoguozhang.com//image/newhome531/banner5.png" alt="">
             </div>
           </div>
         </div>
@@ -336,95 +336,93 @@
         <div class="swiper-container w1170 teacherSwiper">
           <div class="swiper-wrapper">
             <ul class="swiper-slide w1170 animated teachers infinite">
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/郑炳.png" alt=""></b>
+              <li><b><img title="掌腾考研郑炳" src="http://image.guoguozhang.com//image/shizi/郑炳.png" alt=""></b>
                 <h3>郑炳</h3> <em>经济金融名师</em>
-                <p>经济金融考研辅导名师，十年考研辅导经验。
-                  东财经济学硕士，人大经济学院博士。考研专业课“三真辅导体系”开创者，擅长定校辅导。</p>
+                <p>掌腾考研经济金融考研辅导名师，十年考研辅导经验。 东财经济学硕士，人大经济学院博士。考研专业课“三真辅导体系”开创者，擅长定校辅导。</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/曲老师.png" alt=""></b>
+              <li><b><img title="掌腾考研曲老师" src="http://image.guoguozhang.com//image/shizi/曲老师.png" alt=""></b>
                 <h3>曲老师</h3> <em>国际商务名师</em>
-                <p>国商考研辅导名师，五年考研辅导经验。博士。考研专业课“三真辅导体系” 开创者之一。</p>
+                <p>掌腾考研国商考研辅导名师，五年考研辅导经验。博士。考研专业课“三真辅导体系” 开创者之一。</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/蒋志伟老师半身像.png" alt=""></b>
-                <h3>蒋志伟</h3> <em>应用统计名师</em>
-                <p>山东大学数学硕士，多年应用统计专硕辅导经验，统计学基础业内顶尖，基于对统计学知识的理解和运用，独创蒋式解题法，掌握各大名校真题和命题风格，可让学生轻松应对考研</p>
+              <li><b><img title="掌腾考研陈璐琼" src="http://image.guoguozhang.com//image/shizi/陈璐琼.png" alt=""></b>
+                <h3>陈璐琼</h3> <em>法硕辅导名师</em>
+                <p>掌腾考研法硕辅导名师，北京大学法学博士，多年考研法硕辅导、司法考试辅导经验，尤其精通法硕综合课程，研究颇深。上课幽默风趣、充满激情，深受考生喜爱</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/任彦超.png" alt=""></b>
+              <li><b><img title="掌腾考研任彦超" src="http://image.guoguozhang.com//image/shizi/任彦超.png" alt=""></b>
                 <h3>任彦超</h3> <em>资产评估名师</em>
-                <p>审计硕士，中国注册会计师协会会员，拥有多年考研课程培训经验，擅长考试，更擅长用生动幽默直观的语言讲解相对枯燥及难理解的内容，高效掌握知识，取得高分，通过考试
-                </p>
+                <p> 掌腾考研审计硕士辅导名师，中国注册会计师协会会员，拥有多年考研课程培训经验，擅长考试，更擅长用生动幽默直观的语言讲解相对枯燥及难理解的内容，让考生高效掌握知识 </p>
               </li>
             </ul>
             <ul class="swiper-slide w1170 animated teachers infinite">
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/张天德.png" alt=""></b>
+              <li><b><img title="掌腾考研张天德" src="http://image.guoguozhang.com//image/shizi/张天德.png" alt=""></b>
                 <h3>张天德</h3> <a href="#">高数/线代/概率论</a>
-                <p>山东大学数学学院教授，硕士生导师，考研数学辅导名师</p>
+                <p>掌腾考研数学辅导名师，山东大学数学学院教授，硕士生导师 </p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/蔡全领.png" alt=""></b>
+              <li><b><imgg title="掌腾考研蔡全领" src="http://image.guoguozhang.com//image/shizi/蔡全领.png" alt=""></b>
                 <h3>蔡全领</h3> <a href="#">高数/线代/概率论</a>
-                <p>考研数学辅导名师、高等数 学第七版辅导图书主编、九章丛书考研数学真题解析主编</p>
+                <p>掌腾考研数学辅导名师，高等数学第七版辅导图书主编、九章丛书考研数学真题解析主编</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/魏雨明.png" alt=""></b>
+              <li><b><img title="掌腾考研魏雨明" src="http://image.guoguozhang.com//image/shizi/魏雨明.png" alt=""></b>
                 <h3>魏雨明</h3> <a href="#">高数/线代/概率与数理统计</a>
-                <p>核工业研究生部研究生毕业。发明了函数对比法，三角分析法，临界函数法等</p>
+                <p>掌腾考研数学辅导名师，核工业研究生部研究生毕业。发明了函数对比法，三角分析法，临界函数法等</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/涂四利.png" alt=""></b>
+              <li><b><img title="掌腾考研涂四利" src="http://image.guoguozhang.com//image/shizi/涂四利.png" alt=""></b>
                 <h3>涂四利</h3> <a href="#">高数/线代/概率论</a>
-                <p>毕业于中科院数学与 系统科学研究院，曾在多所全国 著名高校任教</p>
+                <p>掌腾考研数学辅导名师，毕业于中科院数学与系统科学研究院，曾在多所全国 著名高校任教</p>
               </li>
             </ul>
             <ul class="swiper-slide w1170 animated teachers infinite">
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/张鑫.jpg" alt=""></b>
+              <li><b><img title="掌腾考研张鑫" src="http://image.guoguozhang.com//image/shizi/张鑫.jpg" alt=""></b>
                 <h3>张鑫</h3> <a href="#">马原/毛中特/史纲</a>
-                <p>考研思想政治理论辅导学院派实力型代表人物。 参与考研大纲的修订和配套教材编写工作</p>
+                <p>掌腾考研政治辅导名师，考研思想政治理论辅导学院派实力型代表人物。 参与考研大纲的修订和配套教材编写工作</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/陈欢.jpg" alt=""></b>
+              <li><b><img title="掌腾考研陈欢" src="http://image.guoguozhang.com//image/shizi/陈欢.jpg" alt=""></b>
                 <h3>陈欢</h3> <a href="#">马原/毛中特/史纲</a>
-                <p>毕业于中国科学技术大学，考研教育辅导专家， 全国硕士研究生入学考试命题研究学者</p>
+                <p>掌腾考研政治辅导名师，毕业于中国科学技术大学，考研教育辅导专家， 全国硕士研究生入学考试命题研究学者</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/张敏英.png" alt=""></b>
+              <li><b><img title="掌腾考研张敏英" src="http://image.guoguozhang.com//image/shizi/张敏英.png" alt=""></b>
                 <h3>张敏英</h3> <a href="#">毛概/史纲/思修</a>
-                <p>国际关系学院国际政治硕士，从事政治理论考试研发及授课9年，擅长问答式教学</p>
+                <p>掌腾考研政治辅导名师，国际关系学院国际政治硕士，从事政治理论考试研发及授课9年，擅长问答式教学</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/孔昱力.jpg" alt=""></b>
+              <li><b><img title="掌腾考研孔昱力" src="http://image.guoguozhang.com//image/shizi/孔昱力.jpg" alt=""></b>
                 <h3>孔昱力</h3> <a href="#">史纲</a>
-                <p>某高校思想政治教研员，主编《考研政治基础教 程》，参编考研政治教材十余本</p>
+                <p>掌腾考研政治辅导名师，某高校思想政治教研员，主编《考研政治基础教 程》，参编考研政治教材十余本</p>
               </li>
             </ul>
             <ul class="swiper-slide w1170 animated teachers infinite">
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/胡小平.jpg" alt=""></b>
+              <li><b><img title="掌腾考研胡小平" src="http://image.guoguozhang.com//image/shizi/胡小平.jpg" alt=""></b>
                 <h3>胡小平</h3> <a href="#">考研英语</a>
-                <p>浙江大学外国语言文化与国际交流学院名师，博 士，考研英语实力派辅导专家</p>
+                <p>掌腾考研英语辅导名师，浙江大学外国语言文化与国际交流学院名师，博士，考研英语实力派辅导专家</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/yoyo.png" alt=""></b>
+              <li><b><img title="掌腾考研Yoyo" src="http://image.guoguozhang.com//image/shizi/yoyo.png" alt=""></b>
                 <h3>Yoyo</h3> <a href="#">词汇/阅读/完形/写作/复试</a>
-                <p>英语语言学硕士毕业，在读博士，7年教学经验。深谙考研英语试题规律和应试技巧</p>
+                <p>掌腾考研英语辅导名师，英语语言学硕士毕业，在读博士，7年教学经验。深谙考研英语试题规律和应试技巧</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/谷存波.png" alt=""></b>
+              <li><b><img title="掌腾考研谷存波" src="http://image.guoguozhang.com//image/shizi/谷存波.png" alt=""></b>
                 <h3>谷存波</h3> <a href="#">词汇/语法/完形/翻译/写作</a>
-                <p>英语学科教学硕士毕业，辅导经验11年，擅长启发式教学，耐心细致，极富亲和力</p>
+                <p>掌腾考研英语辅导名师，英语学科教学硕士毕业，辅导经验11年，擅长启发式教学，耐心细致，极富亲和力</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/赵斯通.jpg" alt=""></b>
+              <li><b><img title="掌腾考研赵斯通" src="http://image.guoguozhang.com//image/shizi/赵斯通.jpg" alt=""></b>
                 <h3>赵斯通</h3> <a href="#">考研英语</a>
-                <p>毕业于吉林大学，全国首批提出并将提源外刊引入课堂的麻辣教师</p>
+                <p>掌腾考研英语辅导名师，毕业于吉林大学，全国首批提出并将提源外刊引入课堂的麻辣教师</p>
               </li>
             </ul>
             <ul class="swiper-slide w1170 animated teachers infinite">
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/陈慕泽.jpg" alt=""></b>
+              <li><b><img title="掌腾考研陈慕泽" src="http://image.guoguozhang.com//image/shizi/陈慕泽.jpg" alt=""></b>
                 <h3>陈慕泽</h3> <a href="#">逻辑</a>
-                <p>中国人民大学教授，博士生导师，1996 年至2009 年参与并负责 MBA 全国统考逻辑命题</p>
+                <p>掌腾考研管综辅导名师，中国人民大学教授，博士生导师，1996 年至2009 年参与并负责 MBA 全国统考逻辑命题</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/容易老师.png" alt=""></b>
+              <li><b><img title="掌腾考研荣易" src="http://image.guoguozhang.com//image/shizi/容易老师.png" alt=""></b>
                 <h3>荣易</h3> <a href="#">199数学</a>
-                <p>山东理科学霸，高考数学满分，南开大学硕士，辅导过的学生遍布北大、人大、上财等</p>
+                <p>掌腾考研初数辅导名师，山东理科学霸，高考数学满分，南开大学硕士，辅导过的学生遍布北大、人大、上财等</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/李莉老师半身照.png" alt=""></b>
+              <li><b><img title="掌腾考研李莉" src="http://image.guoguozhang.com//image/shizi/李莉老师半身照.png" alt=""></b>
                 <h3>李俐</h3> <a href="#">逻辑/写作</a>
-                <p>毕业于香港理工大学，10年辅导经验，对逻辑推理/中文写作独有创见，深受学生喜爱</p>
+                <p>掌腾考研逻辑写作辅导名师，毕业于香港理工大学，10年辅导经验，对逻辑推理/中文写作独有创见，深受学生喜爱</p>
               </li>
-              <li><b><img src="http://image.guoguozhang.com//image/shizi/邹海燕.jpg" alt=""></b>
+              <li><b><img title="掌腾考研邹海燕" src="http://image.guoguozhang.com//image/shizi/邹海燕.jpg" alt=""></b>
                 <h3>邹海燕</h3> <a href="#">逻辑/写作</a>
-                <p>资深辅导教师，从事教育工作多年，对逻辑写作 有独到研究与见解</p>
+                <p>掌腾考研逻辑写作辅导名师，资深辅导教师，从事教育工作多年，对逻辑写作 有独到研究与见解</p>
               </li>
             </ul>
           </div>
@@ -433,7 +431,7 @@
       <div class="footer">
         <div class="list w1170">
           <ul>
-            <li><b>专业课</b>
+            <li><b>掌腾考研专业课辅导</b>
               <p class="lists zykk">
                 <i id="activei"><a href="http://www.zhangtengkaoyan.com/TG/jjpc/" target="_blank">经济学</a></i> <i><a
                      href="http://www.zhangtengkaoyan.com/TG/jrPC/" target="_blank">金融专硕</a></i>
@@ -459,7 +457,7 @@
                 </i>
               </p>
             </li>
-            <li><b>集训基地</b>
+            <li><b>掌腾考研集训基地</b>
               <p class="lists">
                 <i id="activei" onclick="doyoo.util.openChat('g=10080759');return false;"> <a href="javascript:;"
                      target="_blank">
@@ -490,7 +488,7 @@
       </div>
       <div class="fixBox">
         <ul>
-          <li class="firstli"><span class="iconfont">&#xe605;</span> <b></b>
+          <li class="firstli"><span class="iconfont">&#xe605;</span> <b title="掌腾考研公众号"></b>
           </li>
           <li class="Secondli"><span class="iconfont">&#xe604;</span> <b></b>
           </li>
@@ -569,7 +567,7 @@
       $(this).find('span').html('客服热线')
       $(this).find('span').css({ 'color': '#FA6400', 'font-size': '10px' })
       $(this).css({ 'padding': '6px 0' })
-      $(this).find('b').html('400-999-550').css({ 'width': '120px', 'height': '48px', 'line-height': '48px' }).show()
+      $(this).find('b').html('400-9999-550').css({ 'width': '120px', 'height': '48px', 'line-height': '48px' }).show()
     })
     $('.Thirdli').on('mouseleave', function () {
       $(this).find('span').html('&#xe634;')
@@ -741,7 +739,7 @@
     // 文字以打字的方式出现
 
     $(function () {
-      myPrint(["让考试和学习变得轻松", "成为最受用户信任的教育公司", "考研专业课公共课全科辅导"], 150);
+      myPrint(["让考试和学习变得轻松", "成为受用户信任的教育公司", "考研专业课公共课全科辅导"], 150);
 
       function myPrint(arr, speed) {
         var index = 0;
@@ -782,26 +780,30 @@
     let arr = [
       {
         imgsrc: "http://image.guoguozhang.com//image/newhome531/daerfuli.png",
-        href: "http://kaoyan.guoguozhang.com/groupActivityInfo/selectDetail/696547/41"
+        href: "http://kaoyan.guoguozhang.com/groupActivityInfo/selectDetail/696547/41",
+        title:'掌腾考研能量包'
       },
       {
         imgsrc: "http://image.guoguozhang.com//image/newhome531/gongkaike.png",
-        href: "http://kaoyan.guoguozhang.com/sysConfigItem/showList?itemOneId=191105"
+        href: "http://kaoyan.guoguozhang.com/sysConfigItem/showList?itemOneId=191105",
+        title:'掌腾考研公开课'
       },
       {
         imgsrc: "http://image.guoguozhang.com//image/newhome531/zhibozhoumoban.png",
-        href: "http://www.guoguozhang.com/TG/ztmg/"
+        href: "http://www.guoguozhang.com/TG/ztmg/",
+        title:'掌腾考研培训班'
       },
       {
         imgsrc: "http://image.guoguozhang.com//image/newhome531/shuqijixun.png",
-        href: "http://www.guoguozhang.com/TG/ztmg/"
+        href: "http://www.guoguozhang.com/TG/ztmg/",
+        title:'掌腾考研集训营'
       }
     ]
 
     $('.leftTab').find('li').on('mouseover', function () {
       let str = ''
       $(this).addClass('active').siblings().removeClass('active')
-      str += '<a href="' + arr[$(this).index()].href + '"><img src="' + arr[$(this).index()].imgsrc + '" alt="" opacity="1" class="swiper-slide"></a>'
+      str += '<a href="' + arr[$(this).index()].href + '"><img title="'+ arr[$(this).index()].title +'" src="' + arr[$(this).index()].imgsrc + '" alt="" opacity="1" class="swiper-slide"></a>'
       $('.BannerBox').html(str)
     })
     let str = '<a href="' + arr[0].href + '"><img src="' + arr[0].imgsrc + '" alt="" opacity="1" class="swiper-slide"></a>'
@@ -812,6 +814,11 @@
       var mySwiper = new Swiper('.DubaiStudents', {
         autoplay: 3000,
         loop: true
+      });
+      // 师资轮播
+      var mySwiper2 = new Swiper('.teacherSwiper', {
+        effect: 'fade',
+        autoplay: 3000,
       })
     }, 0)
     $('.tituls').find('li').on('mouseover', function () {
@@ -1187,11 +1194,7 @@
     $(function () {
       $('.titlist,.tabtit,.students,.success,.teacher,.footer,.fixBox').show();
       $('.Dubai .chuguoyou').show();
-      // 师资轮播
-      var mySwiper = new Swiper('.teacherSwiper', {
-        effect: 'fade',
-        autoplay: 3000,
-      })
+
     })
   </script>
 
