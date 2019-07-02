@@ -5,3 +5,4 @@ var num = 18;
 console.log(num);
 var unde = undefined;
 console.log(unde);
+console.log(unde);
