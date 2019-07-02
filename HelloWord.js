@@ -6,3 +6,5 @@ console.log(num);
 var unde = undefined;
 console.log(unde);
 console.log(unde);
+console.log(unde);
+console.log(unde);

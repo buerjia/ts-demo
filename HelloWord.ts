@@ -5,3 +5,5 @@ console.log(num);
 let unde:undefined = undefined;
 console.log(unde);
 console.log(unde);
+console.log(unde);
+console.log(unde);
