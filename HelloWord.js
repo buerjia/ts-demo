@@ -1,7 +1,7 @@
 "use strict";
-var a = 'hello world';
-console.log(a);
+var str = 'hello world';
+console.log(str);
 var num = 18;
 console.log(num);
-var b = undefined;
-console.log(b);
+var unde = undefined;
+console.log(unde);
