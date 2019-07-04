@@ -10,13 +10,25 @@ let myhusband: Husband = {
 }
 console.log(myhusband);
 
-interface SearchMan {
-  /** 函数 */
-  fn1(source: string, subSource: string): boolean
-  fn2?(source: string, subSource: string): boolean
+
+
+/** 一个函数 */
+interface SearchMan1 {
+  (source: string, subSource: string): boolean
 
 }
-let mySearch: SearchMan = {
+let mySearch1: SearchMan1 = function (source: string, subSource: string): boolean {
+  let flag = source.search(subSource);
+  return (flag != -1)
+}
+console.log(mySearch1("abc", "d"));
+
+/** 多个函数 */
+interface SearchMan2 {
+  fn1(source: string, subSource: string): boolean
+  fn2?(source: string, subSource: string): boolean
+}
+let mySearch: SearchMan2 = {
   fn1: function (source: string, subSource: string): boolean {
     let flag = source.search(subSource);
     return (flag != -1)
